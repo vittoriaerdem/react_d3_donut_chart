@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { HashRouter as Router, Route, Link } from 'react-router-dom';
-import DonutChart from './views/donut-chart';
+import DonutChart from './components/donut-chart';
 
 import './App.css';
 
