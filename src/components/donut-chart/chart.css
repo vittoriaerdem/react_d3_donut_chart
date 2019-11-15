@@ -1,0 +1,10 @@
+.arc text {
+  font: 20px sans-serif;
+  text-anchor: middle;
+  font-weight: bold;
+  fill: white;
+}
+
+.arc path {
+  stroke: #fff;
+}
